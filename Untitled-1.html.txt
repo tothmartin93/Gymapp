@@ -1,0 +1,41 @@
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+<script>
+var convertToF = () => {
+    let degrees = document.getElementById('temperature').value;
+    console.log(degrees);
+    let convertedValue = degrees * 2;
+    document.getElementById('answer').innerHTML = convertedValue + ' F';
+}
+</script>
+</head>
+
+<body>
+    <section>
+        <h3>Celcius to Fahrenheit</h3>
+        <div class="container">
+            <input id="temperature" placeholder="Temperature goes here">
+            <div class="row">
+                <button onclick="convertToF()">to F</button>
+                <button>to C</button>
+            </div>
+            <span id="answer">Answer will be here</span>
+        </div>
+    </section>
+    <section>
+        <h3>Simplest Slider</h3>
+    </section>
+    <section>
+        <h3>To Do List</h3>           
+    </section>
+    <section>
+                                    
+    </section>
+    
+
+</body>
+
+</html>
