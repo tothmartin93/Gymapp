@@ -1,0 +1,81 @@
+{
+"exercises" {
+"id1" : {
+      "muscles" : "Biceps",
+      "name" : "Laying Curl in Pulleys",
+      "description" :"Execution of the exercise :
+      • Using a long bar connected to a pulley system, lie down and hold the bar with your arms bent as shown in the picture.
+      • Lower the load to the full length of both arms.
+      • Then flex the arms (pulling the load) to the starting position.
+      Routine with machine: 3 sets of 10 repetitions.",
+      "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-de-biceps-10.gif"
+    },
+    "id2" : {
+      "muscles" : "Biceps",
+      "name" : "Preacher with Pulleys",
+      "description" :"Execution of the exercise :
+      • Sitting on a preacher bench that is connected to a pulley system (such as the one shown in the picture).
+      • Hold a short bar attached to the pulley system and begin biceps exercise with your arms bent.
+      • Lower the load to a full extent.
+      • Raise the arms against the resistance until you reach the starting position.
+      Machine routine: 3 sets of 10 repetitions.",
+      "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-para-biceps-8.gif"
+    },
+    "id3" : {
+      "muscles" : "Triceps",
+      "name" : "Inverted Pulleys",
+      "description" :"Execution of the exercise :
+      • Use a short bar attached to a pulley system and hold the bar in the position shown in the picture.
+      • Push the bar against the resistance to the maximum extension point
+      • Then return to the initial position with controlled movement. The arms will remain fixed throughout the exercise.
+      Routine in pulley machine: 3 sets of 10 repetitions.",
+      "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-de-triceps-7.gif"
+    },
+    "id4" : {
+      "muscles" : "Triceps",
+      "name" : "Pulleys in Preacher",
+      "description" :"Execution of the exercise :
+      • Use a short bar attached to a pulley system and grasp the bar with the palms of your hands forward, supporting your arms over the preacher's pad (as shown in the picture).
+      • Pull the load down until the arms are fully extended.
+      • Then flex your arms in a controlled manner until you return to the starting position.
+      Routine in pulley machine: 3 sets of 10 repetitions.",
+      "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-de-triceps-8.gif"
+    },
+    "id5" : {
+      "muscles" : "Aerobic",
+      "name" : "Walker or Band Without End",
+      "description" :"Key Points :
+      • If your goal is to lose weight, increase the duration of your exercise on a treadmill instead of speed.
+      • If your goal is to increase the muscle mass of your thighs, increase the incline of your treadmill instead of speed or duration .
+      Routine treadmill machine: To lose weight in intermediate level people, perform a 30-minute fast walk.",
+      "url" : "http://www.gimnasiototal.com/imagenes/maquina-caminadora.gif"
+    },
+    "id6" : {
+      "muscles" : "Aerobic",
+      "name" : "Elliptical",
+      "description" :"Key Points :
+      • Prefer elliptical over other machines when you want more intense buttock training.
+      • Due to its low level of resistance, the simultaneous training of arms performed in the elliptical is only useful for toning them.
+      Routine elliptical machine: To lose weight in intermediate level people, perform 30 minutes of exercise at moderate intensity.",
+      "url" : "http://www.gimnasiototal.com/imagenes/maquinas-eliptica.jpg"
+    },
+    "id7" : {
+      "muscles" : "Aerobic",
+      "name" : "Climber",
+      "description" :"Key Points :
+      • It is an excellent cardiovascular exercise and also trains the thighs and buttocks.
+      • Avoid the climber if you have problems with your knees.
+      Escalator Machine Routine: To increase your biceps in intermediate to advanced people, perform 5-10 minutes at an intense level.",
+      "url" : "http://www.gimnasiototal.com/imagenes/maquinas-escaladora.jpg"
+    },
+    "id8" : {
+      "muscles" : "Aerobic",
+      "name" : "Stationary bicycle",
+      "description" :"Key Points :
+      • If your goal is to lose weight, increase the duration of your exercise instead of speed or endurance.
+      • If your goal is to increase the muscle mass of your thighs, increase the resistance instead of the speed .
+      Routine: To lose weight in the intermediate level, perform 30 minutes of exercise at moderate intensity.",
+      "url" : "http://www.gimnasiototal.com/imagenes/ejercicios-con-bicicleta.jpg"
+    }
+  }
+}
