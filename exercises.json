@@ -1,46 +1,46 @@
 {
   "exercises" : {
     "id1" : {
-      "muscles" : "Biceps",
+      "muscles" : "biceps",
       "name" : "Laying Curl in Pulleys",
       
       "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-de-biceps-10.gif"
     },
     "id2" : {
-      "muscles" : "Biceps",
+      "muscles" : "biceps",
       "name" : "Preacher with Pulleys",
      
       "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-para-biceps-8.gif"
     },
     "id3" : {
-      "muscles" : "Triceps",
+      "muscles" : "triceps",
       "name" : "Inverted Pulleys",
      
       "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-de-triceps-7.gif"
     },
     "id4" : {
-      "muscles" : "Triceps",
+      "muscles" : "triceps",
       "name" : "Pulleys in Preacher",
      
       "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-de-triceps-8.gif"
     },
     "id5" : {
-      "muscles" : "Aerobic",
+      "muscles" : "aerobic",
       "name" : "Walker or Band Without End",
       "url" : "http://www.gimnasiototal.com/imagenes/maquina-caminadora.gif"
     },
     "id6" : {
-      "muscles" : "Aerobic",
+      "muscles" : "aerobic",
       "name" : "Elliptical",
      "url" : "http://www.gimnasiototal.com/imagenes/maquinas-eliptica.jpg"
     },
     "id7" : {
-      "muscles" : "Aerobic",
+      "muscles" : "aerobic",
       "name" : "Climber",
       "url" : "http://www.gimnasiototal.com/imagenes/maquinas-escaladora.jpg"
     },
     "id8" : {
-      "muscles" : "Aerobic",
+      "muscles" : "aerobic",
       "name" : "Stationary bicycle",
        "url" : "http://www.gimnasiototal.com/imagenes/ejercicios-con-bicicleta.jpg"
     },
