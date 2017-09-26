@@ -104,16 +104,6 @@
       "name" : "Laying curl",
       "url" : "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ALyKUJ-UBT-C7PNEInTwWwEsDh%26pid%3D15.1&f=1"
     },
-    "id21" : {
-      "muscles" : "legs",
-      "name" : "Walker",
-      "url" : "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.NaNsxmar_L_jShWTFHUSRAD2Es%26pid%3D15.1&f=1"
-    },
-    "id22" : {
-      "muscles" : "legs",
-      "name" : "Elliptical",
-      "url" : "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.QZFxxRBAzq4kBPuv3q4q5QD5D5%26pid%3D15.1&f=1"
-    }
   },
   "machines" : {
     "id01" : {
@@ -122,7 +112,7 @@
       "url" : "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._vXuiv1Q2DcgO4RgfYSJrwC8Es%26pid%3D15.1&f=1"
     },
     "id02" : {
-      "exercises" : [ "id21", "id22" ],
+      "exercises" : [ "id5", "id6" ],
       "name" : "Aerobic machine",
       "url" : "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP._ATR6h1ITl16y5qDfN6JswEsEs%26pid%3D15.1&f=1"
     },
@@ -137,9 +127,9 @@
       "url" : "http://www.gimnasiototal.com/animaciones/ejercicios-de-triceps-7.gif"
     },
     "id05" : {
-      "exercises" : [ "id6"],
-      "name" : "Elliptical Machine",
-      "url" : "http://www.gimnasiototal.com/imagenes/maquinas-eliptica.jpg"
+      "exercises" : [ "id8"],
+      "name" : "Stationary bycicle",
+      "url" : "http://www.gimnasiototal.com/imagenes/ejercicios-con-bicicleta.jpg"
     }
   }
 }
