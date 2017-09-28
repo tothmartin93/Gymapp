@@ -1,3 +1,8 @@
-# beadando_TM_IGY
+#Task 4
 
-## Just a little modification
+![screenShoot]:(/task4/sc.png) 
+
+To create this design, we created 3 new components : 
+* CardItem
+* CardImage
+* CardImageScroll
